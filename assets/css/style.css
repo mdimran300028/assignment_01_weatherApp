@@ -1,0 +1,20 @@
+.nav-logo{
+    height: 40px;
+    width: auto;
+}
+
+.loader{
+    width:100px;
+    height:100px;
+    background-color:transparent;
+    position:fixed;
+    left:50%;
+    top:50%;
+    margin-left:-50px;
+    margin-top:-50px;
+    z-index: 99999999;
+    /*display: none;*/
+}
+.hide{
+    display: none;
+}
